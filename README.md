@@ -11,4 +11,4 @@ This was a 2-phase project we had to do as part of our coursework for Computer A
 
 ### Running the python assembler
 1. Run the *assembler.py* file.
-2. You will see binary code for the *sortingCode.asm* assembly code.
+>You will see binary code for the *sortingCode.asm* assembly code.
